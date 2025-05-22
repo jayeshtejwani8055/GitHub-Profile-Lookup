@@ -18,5 +18,3 @@ A clean and intuitive mobile application that allows users to search and view Gi
 Clone the repository:
 
 git clone https://github.com/your-username/github-search-profile-app.git
-cd github-search-profile-app
-
